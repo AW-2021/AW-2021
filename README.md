@@ -10,9 +10,7 @@
 # GitHub Stats 🌱
 ![](https://github-readme-stats.vercel.app/api?username=AW-2021&theme=outrun&hide_border=false&include_all_commits=false&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=AW-2021&theme=outrun&hide_border=false)<br/>
-<p align="center">
-  <img height="215" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AW-2021&theme=outrun&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
-</p><br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AW-2021&theme=outrun&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ## GitHub Trophies 🏆
 ![](https://github-profile-trophy.vercel.app/?username=AW-2021&theme=radical&no-frame=false&no-bg=false&margin-w=4)
@@ -22,3 +20,6 @@
 
 # Socials 🌐
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/aminawasif) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aminawasif20@gmail.com) 
+
+---
+[![](https://visitcount.itsvg.in/api?id=AW-2021&icon=4&color=10)](https://visitcount.itsvg.in)
