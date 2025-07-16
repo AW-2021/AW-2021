@@ -19,7 +19,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=AW-2021&limit=5&theme=outrun&combine_all_yearly_contributions=true)
 
 # Socials 🌐
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/aminawasif) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aminawasif20@gmail.com) 
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aminawasif/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aminawasif20@gmail.com)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AW-2021&icon=4&color=10)](https://visitcount.itsvg.in)
