@@ -1,6 +1,6 @@
 # Hi, I'm Amina! 👋
 
-🧠 Full-Stack Web Developer (Front-End focused)<br/>
+🧠 Full-Stack Web Developer<br/>
 🎨 Creative Coder and UI/UX Designer<br/>
 👾 I create apps that combine design with functionality<br/>
 📫 Reach me at: [aminawasif20@gmail.com]<br/>
