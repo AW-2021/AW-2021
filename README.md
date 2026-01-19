@@ -12,11 +12,11 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=AW-2021&theme=outrun&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AW-2021&theme=outrun&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-## GitHub Trophies 🏆
+<!-- ## GitHub Trophies 🏆
 ![](https://github-profile-trophy.vercel.app/?username=AW-2021&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## Top Contributed Repo 🌟
-![](https://github-contributor-stats.vercel.app/api?username=AW-2021&limit=5&theme=outrun&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=AW-2021&limit=5&theme=outrun&combine_all_yearly_contributions=true) -->
 
 # Socials 🌐
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aminawasif/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aminawasif20@gmail.com)
